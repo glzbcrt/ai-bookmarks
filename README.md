@@ -1,5 +1,7 @@
 # AI Bookmarks
 
+Here you will find links for tools, books, videos, libraries about artificial intelligence.
+
 ## Learning
 
 | Name| Description |
